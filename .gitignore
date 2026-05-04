@@ -13,10 +13,14 @@ claude_resume.txt
 # Model cache and outputs
 output/
 outputs/
+# Generated images
 *.png
 *.jpg
 *.jpeg
 *.webp
+
+# Icon (don't ignore)
+!icon.png
 
 # Python cache
 __pycache__/

@@ -17,6 +17,10 @@ module.exports = {
           default: true
         }, {
           icon: "fa-solid fa-rotate-right",
+          text: "Restart",
+          href: "restart.js"
+        }, {
+          icon: "fa-solid fa-rotate-right",
           text: "Update",
           href: "update.js"
         }, {
