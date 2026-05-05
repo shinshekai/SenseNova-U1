@@ -129,6 +129,9 @@ project-root/
 ├── start.js            # Launch script
 ├── update.js           # Update script
 ├── reset.js            # Reset dependencies script
+├── download.js         # Model weight download script
+├── restart.js          # Auto app restart script
+├── torch.js            # Torch and CUDA dependencies script
 ├── pinokio.js          # UI generator script
 ├── pinokio.json        # Metadata
 └── README.md           # Documentation
