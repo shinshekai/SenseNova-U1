@@ -5,7 +5,7 @@ venv/
 settings.json
 
 # Cloned app repository
-app/
+# app/ is now included in the repo
 
 # Resume file
 claude_resume.txt
