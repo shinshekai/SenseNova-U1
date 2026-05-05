@@ -1,0 +1,8 @@
+{
+  "version": "6.0.0",
+  "title": "SenseNova-U1 Image",
+  "description": "High-quality image generation and editing powered by SenseNova-U1-8B-MoT (NEO-Unify architecture). Supports text-to-image, image-to-image editing, and reasoning mode.",
+  "icon": "icon.png",
+  "platform": ["win32", "linux", "darwin"],
+  "gpu": ["nvidia"]
+}

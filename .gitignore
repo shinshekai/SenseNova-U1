@@ -1,0 +1,48 @@
+# Virtual environment
+env/
+venv/
+.claude/
+settings.json
+
+# Resume file
+claude_resume.txt
+
+# Model cache and outputs
+output/
+outputs/
+# Generated images
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# HuggingFace cache
+.cache/
+.huggingface/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Pinokio files
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+QWEN.md
