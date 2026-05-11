@@ -154,4 +154,4 @@ This project is built using:
 
 ---
 
-Created for the Pinokio Community
+Created with ❤️ by Shinshekai for the Pinokio Community
